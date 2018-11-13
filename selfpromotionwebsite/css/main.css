@@ -1,0 +1,228 @@
+body {
+	background-color: #000000;
+	color: #ffffff;
+	font-family: Century Gothic;
+    padding-bottom: 120px;
+}
+
+header {
+	color: #ffffff;
+}
+ul {
+    list-style-type: none;
+    margin: -6px;
+    padding: 0;
+}
+
+li {
+    float: left;
+}
+
+a {
+	color: #ffffff;
+	text-decoration: none;
+    padding: 7px;
+}
+
+li a:hover {
+    color: #737373;
+}
+
+.pagecheck {
+    color: #737373;
+}
+
+footer{
+    border-top:1px solid #ffffff;
+    font-size:12px;
+    text-align: center;
+    font-style:italic;
+    position:fixed;
+    bottom:0;
+    width: 100%;
+    clear:both; 
+    background-color: #000000
+}
+
+video{
+    /*padding-left: 460px;*/
+    display: block;
+    margin: 0 auto;
+}
+
+.logo{
+    float: left;
+}
+
+.csharp{
+    float: left;
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 70px;
+    padding-bottom: 50px;
+    margin-top: 0px;
+}
+
+.codelogo img{
+    float: left;
+    text-align: center;
+    padding-right: 70px;
+    padding-bottom: 130px;
+}
+
+.title{
+    padding-top: 55px;
+    margin-left: 100px;
+}
+
+.para{
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: 21px;
+    text-align: justify;
+}
+
+.subheader{
+    text-align: center;
+    font-size: 26px;
+}
+
+.proja img{
+    float: left;
+}
+
+.proja h4{
+    padding-left: 720px;
+    text-align: left;
+    font-size: 26px;
+}
+
+.proja p{
+    text-align: left;
+    padding-left: 720px;
+    padding-right: 30px;
+    font-size: 21px;
+    text-align: justify;
+}
+
+.projb img{
+    float: right;
+    padding-bottom: 140px;
+}
+
+.projb h4{
+    text-align: left;
+    font-size: 26px;
+    clear: all;
+}
+
+.projb p{
+    text-align: left;
+    padding-right: 720px;
+    font-size: 21px;
+    text-align: justify;
+}
+
+.qual h4{
+    text-align: center;
+    font-size: 26px;
+}
+
+.qual p{
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: 21px;
+    text-align: justify;
+}
+
+.qual th, td{
+    text-align: left;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.workexp h4{
+    text-align: center;
+    font-size: 26px;
+}
+
+.workexp p{
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: 21px;
+    text-align: justify;
+}
+
+.aboutme h3{
+    text-align: center;
+    font-size: 26px;
+}
+
+.aboutme p{
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: 21px;
+    text-align: justify;
+}
+
+.cvdown a{
+    padding-left: 450px;
+    padding-right: 250px;
+    font-size: 21px;
+    /*text-align: justify;*/
+}
+
+.cvdown h3{
+    text-align: center;
+    font-size: 26px;
+}
+
+.lastqual {
+    text-align: left;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.footerlogo img{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact h4{
+    text-align: center;
+    font-size: 26px;
+}
+
+.contact p{
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: 21px;
+}
+
+#images{
+    text-align:center;
+}
+
+/*form {
+    display: inline-block;
+    text-align: center;
+}*/
+
+div.contactform
+{
+    display: block;
+    text-align: center;
+}
+form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
